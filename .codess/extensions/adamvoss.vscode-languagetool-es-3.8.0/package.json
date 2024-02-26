@@ -1,0 +1,44 @@
+{
+	"name": "vscode-languagetool-es",
+	"displayName": "Spanish Support for LanguageTool",
+	"version": "3.8.0",
+	"description": "Enables grammar checking of Spanish in LanguageTool for Visual Studio Code.",
+	"icon": "img/png/LanguageTool-Icon-es.png",
+	"author": "Adam Voss",
+	"publisher": "adamvoss",
+	"preview": true,
+	"extensionDependencies": [
+		"adamvoss.vscode-languagetool"
+	],
+	"repository": {
+		"url": "https://github.com/adamvoss/vscode-languagetool"
+	},
+	"license": "Apache-2.0",
+	"engines": {
+		"vscode": "^1.8.0"
+	},
+	"galleryBanner": {
+		"color": "#6565f6",
+		"theme": "light"
+	},
+	"keywords": [
+		"spell",
+		"grammar",
+		"proofread",
+		"grammar-checker",
+		"Spanish"
+	],
+	"categories": [
+		"Other"
+	],
+	"__metadata": {
+		"id": "10666332-1b17-4ccf-a38b-2410de701715",
+		"publisherId": "bcc84b7b-7923-41b3-80e2-0dce99cc0f2f",
+		"publisherDisplayName": "Adam Voss",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1708673439425
+	}
+}

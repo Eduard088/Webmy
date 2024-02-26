@@ -1,0 +1,13 @@
+2024-02-23 01:12:26.466 [info] Extension host with pid 2073 started
+2024-02-23 01:12:27.624 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-23 01:12:27.640 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-23 01:12:29.358 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-23 01:12:30.755 [info] Lock '/home/barea/.vscode-server/data/User/workspaceStorage/02a55fb17e8e2989a2ec68a7e985c231/vscode.lock': Lock acquired.
+2024-02-23 01:12:31.903 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-23 01:12:31.927 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-23 01:12:36.005 [info] Eager extensions activated
+2024-02-23 01:12:36.010 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 01:12:36.027 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 01:14:23.231 [info] Extension host terminating: received terminate message from renderer
+2024-02-23 01:14:23.239 [info] Lock '/home/barea/.vscode-server/data/User/workspaceStorage/02a55fb17e8e2989a2ec68a7e985c231/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-23 01:14:23.820 [info] Extension host with pid 2073 exiting with code 0

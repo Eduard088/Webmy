@@ -1,0 +1,109 @@
+2024-02-22 23:54:00.303 [info] 
+
+
+
+
+2024-02-22 23:54:00.304 [info] Extension host agent started.
+2024-02-22 23:54:00.312 [info] Started initializing default profile extensions in extensions installation folder. file:///home/barea/.vscode-server/extensions
+2024-02-22 23:54:00.371 [info] [127.0.0.1][4390623a][ManagementConnection] New connection established.
+2024-02-22 23:54:03.477 [info] [127.0.0.1][c4ca260c][ExtensionHostConnection] New connection established.
+2024-02-22 23:54:04.390 [info] [127.0.0.1][c4ca260c][ExtensionHostConnection] <236> Launched Extension Host Process.
+2024-02-22 23:54:04.760 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/barea/.vscode-server/extensions
+2024-02-23 00:12:20.436 [error] No ptyHost response to createProcess after 5 seconds
+2024-02-23 00:24:15.553 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-23 00:24:15.918 [info] Installing extension: ritwickdey.liveserver
+2024-02-23 00:24:42.521 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-23 00:27:26.776 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-02-23 00:27:28.925 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ccfa26b-483d-4b9e-8970-5c8438c15662' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.0ccfa26b-483d-4b9e-8970-5c8438c15662","path":"/home/barea/.vscode-server/extensions/.0ccfa26b-483d-4b9e-8970-5c8438c15662","scheme":"file"}
+2024-02-23 00:27:47.499 [error] Error while installing the extension ritwickdey.liveserver EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ccfa26b-483d-4b9e-8970-5c8438c15662' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+2024-02-23 00:27:47.513 [error] Failed to install extension. ritwickdey.liveserver
+2024-02-23 00:27:47.519 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ccfa26b-483d-4b9e-8970-5c8438c15662' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:27:48.580 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ccfa26b-483d-4b9e-8970-5c8438c15662' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:30:37.983 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-23 00:30:38.485 [info] Installing extension: ritwickdey.liveserver
+2024-02-23 00:30:51.506 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-23 00:33:00.877 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-02-23 00:33:02.339 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.682fc12c-f820-4c0f-bab5-06f48032dee1' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.682fc12c-f820-4c0f-bab5-06f48032dee1","path":"/home/barea/.vscode-server/extensions/.682fc12c-f820-4c0f-bab5-06f48032dee1","scheme":"file"}
+2024-02-23 00:33:17.304 [error] Error while installing the extension ritwickdey.liveserver EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.682fc12c-f820-4c0f-bab5-06f48032dee1' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+2024-02-23 00:33:17.310 [error] Failed to install extension. ritwickdey.liveserver
+2024-02-23 00:33:17.311 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.682fc12c-f820-4c0f-bab5-06f48032dee1' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:33:18.349 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.682fc12c-f820-4c0f-bab5-06f48032dee1' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:38:59.131 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-23 00:38:59.739 [info] Installing extension: ritwickdey.liveserver
+2024-02-23 00:39:13.736 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-23 00:41:59.714 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-02-23 00:42:01.533 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9b870852-884d-4f29-a67c-fb2eed06fae9' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.9b870852-884d-4f29-a67c-fb2eed06fae9","path":"/home/barea/.vscode-server/extensions/.9b870852-884d-4f29-a67c-fb2eed06fae9","scheme":"file"}
+2024-02-23 00:42:19.792 [error] Error while installing the extension ritwickdey.liveserver EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9b870852-884d-4f29-a67c-fb2eed06fae9' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+2024-02-23 00:42:19.800 [error] Failed to install extension. ritwickdey.liveserver
+2024-02-23 00:42:19.801 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9b870852-884d-4f29-a67c-fb2eed06fae9' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:42:20.823 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9b870852-884d-4f29-a67c-fb2eed06fae9' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:44:42.015 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-23 00:44:42.407 [info] Installing extension: ritwickdey.liveserver
+2024-02-23 00:44:59.570 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-23 00:47:42.289 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-02-23 00:47:44.072 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.6d11d570-aa46-4c10-8f6e-2f5643eb24ba' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.6d11d570-aa46-4c10-8f6e-2f5643eb24ba","path":"/home/barea/.vscode-server/extensions/.6d11d570-aa46-4c10-8f6e-2f5643eb24ba","scheme":"file"}
+2024-02-23 00:48:04.343 [error] Error while installing the extension ritwickdey.liveserver EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.6d11d570-aa46-4c10-8f6e-2f5643eb24ba' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+2024-02-23 00:48:04.351 [error] Failed to install extension. ritwickdey.liveserver
+2024-02-23 00:48:04.353 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.6d11d570-aa46-4c10-8f6e-2f5643eb24ba' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:48:05.389 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.6d11d570-aa46-4c10-8f6e-2f5643eb24ba' -> '/home/barea/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:55:24.816 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2024-02-23 00:55:26.859 [info] Installing extension: streetsidesoftware.code-spell-checker
+2024-02-23 00:55:43.227 [warning] Extension signature verification failed with error 'ENOENT': streetsidesoftware.code-spell-checker
+2024-02-23 00:55:47.017 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1: streetsidesoftware.code-spell-checker
+2024-02-23 00:55:47.347 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5e26bb94-731d-406c-b9d5-d80ebef19e25' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.5e26bb94-731d-406c-b9d5-d80ebef19e25","path":"/home/barea/.vscode-server/extensions/.5e26bb94-731d-406c-b9d5-d80ebef19e25","scheme":"file"}
+2024-02-23 00:55:49.227 [error] Error while installing the extension streetsidesoftware.code-spell-checker EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5e26bb94-731d-406c-b9d5-d80ebef19e25' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+2024-02-23 00:55:49.234 [error] Failed to install extension. streetsidesoftware.code-spell-checker
+2024-02-23 00:55:49.237 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5e26bb94-731d-406c-b9d5-d80ebef19e25' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:55:50.172 [info] [127.0.0.1][4390623a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-23 00:55:50.308 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5e26bb94-731d-406c-b9d5-d80ebef19e25' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+    at V.C (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 00:55:51.266 [info] [127.0.0.1][c4ca260c][ExtensionHostConnection] <236> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,39 @@
+2024-02-22 23:54:18.621 [info] Extension host with pid 236 started
+2024-02-22 23:54:19.253 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-22 23:54:20.610 [info] Lock '/home/barea/.vscode-server/data/User/workspaceStorage/02a55fb17e8e2989a2ec68a7e985c231/vscode.lock': Lock acquired.
+2024-02-22 23:54:20.649 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-22 23:54:23.291 [info] Eager extensions activated
+2024-02-22 23:54:23.296 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-22 23:54:23.308 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-22 23:54:35.438 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-02-22 23:55:02.181 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-22 23:55:05.873 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-23 00:16:56.234 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-02-23 00:16:56.241 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-msedge'
+2024-02-23 00:17:01.483 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-02-23 00:20:30.210 [error] Error: Invalid debug adapter
+    at l.o (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:95)
+    at l.$acceptDAError (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1904:14822)
+    at m.S (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:13967)
+    at m.Q (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:13733)
+    at m.M (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:12826)
+    at m.L (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:11905)
+    at a.value (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at s.fire (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:628:14470)
+    at f.z (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:628:17535)
+    at a.value (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:628:15987)
+    at o.y (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at a.acceptChunk (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:628:12244)
+    at vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:628:11531
+    at a.value (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:688:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/Marcial/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:688:3306)
+2024-02-23 00:49:23.482 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-23 00:49:23.487 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-23 00:55:50.231 [info] Extension host terminating: received terminate message from renderer
+2024-02-23 00:55:50.236 [info] Lock '/home/barea/.vscode-server/data/User/workspaceStorage/02a55fb17e8e2989a2ec68a7e985c231/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-23 00:55:51.121 [info] Extension host with pid 236 exiting with code 0

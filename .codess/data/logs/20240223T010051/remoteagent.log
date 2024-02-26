@@ -1,0 +1,158 @@
+2024-02-23 01:00:52.898 [info] 
+
+
+
+
+2024-02-23 01:00:53.146 [info] Extension host agent started.
+2024-02-23 01:00:55.150 [info] [127.0.0.1][f63adf0d][ManagementConnection] New connection established.
+2024-02-23 01:00:57.793 [info] [127.0.0.1][764c3662][ExtensionHostConnection] New connection established.
+2024-02-23 01:01:05.564 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-23 01:01:05.574 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-23 01:01:05.585 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-23 01:01:06.099 [info] [127.0.0.1][764c3662][ExtensionHostConnection] <1670> Launched Extension Host Process.
+2024-02-23 01:02:05.658 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2024-02-23 01:02:09.041 [info] Installing extension: streetsidesoftware.code-spell-checker
+2024-02-23 01:02:20.227 [warning] Extension signature verification failed with error 'ENOENT': streetsidesoftware.code-spell-checker
+2024-02-23 01:02:25.220 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1: streetsidesoftware.code-spell-checker
+2024-02-23 01:02:25.482 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e6363600-62fc-4bf6-a786-e2901953eabd' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.e6363600-62fc-4bf6-a786-e2901953eabd","path":"/home/barea/.vscode-server/extensions/.e6363600-62fc-4bf6-a786-e2901953eabd","scheme":"file"}
+2024-02-23 01:02:26.714 [error] Error while installing the extension streetsidesoftware.code-spell-checker EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e6363600-62fc-4bf6-a786-e2901953eabd' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+2024-02-23 01:02:26.721 [error] Failed to install extension. streetsidesoftware.code-spell-checker
+2024-02-23 01:02:26.723 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e6363600-62fc-4bf6-a786-e2901953eabd' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:02:27.755 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e6363600-62fc-4bf6-a786-e2901953eabd' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:05:36.758 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-23 01:05:37.187 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-23 01:05:41.635 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2024-02-23 01:05:42.057 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-23 01:05:42.213 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e0c74c56-4b28-4031-992a-910d1082d8cd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.e0c74c56-4b28-4031-992a-910d1082d8cd","path":"/home/barea/.vscode-server/extensions/.e0c74c56-4b28-4031-992a-910d1082d8cd","scheme":"file"}
+2024-02-23 01:05:42.297 [error] Error while installing the extension dbaeumer.vscode-eslint EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e0c74c56-4b28-4031-992a-910d1082d8cd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+2024-02-23 01:05:42.302 [error] Failed to install extension. dbaeumer.vscode-eslint
+2024-02-23 01:05:42.303 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e0c74c56-4b28-4031-992a-910d1082d8cd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:05:43.315 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.e0c74c56-4b28-4031-992a-910d1082d8cd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:05:53.962 [info] Getting Manifest... pranaygp.vscode-css-peek
+2024-02-23 01:05:54.378 [info] Installing extension: pranaygp.vscode-css-peek
+2024-02-23 01:06:18.633 [warning] Extension signature verification failed with error 'ENOENT': pranaygp.vscode-css-peek
+2024-02-23 01:08:40.044 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-23 01:08:40.493 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-23 01:08:44.173 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2024-02-23 01:08:45.325 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-23 01:08:47.154 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.34deaefd-0fee-4d52-880c-ea03f85155dd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.34deaefd-0fee-4d52-880c-ea03f85155dd","path":"/home/barea/.vscode-server/extensions/.34deaefd-0fee-4d52-880c-ea03f85155dd","scheme":"file"}
+2024-02-23 01:08:47.889 [error] Error while installing the extension dbaeumer.vscode-eslint EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.34deaefd-0fee-4d52-880c-ea03f85155dd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+2024-02-23 01:08:47.894 [error] Failed to install extension. dbaeumer.vscode-eslint
+2024-02-23 01:08:47.895 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.34deaefd-0fee-4d52-880c-ea03f85155dd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:08:48.773 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-23 01:08:48.918 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.34deaefd-0fee-4d52-880c-ea03f85155dd' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:08:49.426 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-23 01:08:54.232 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2024-02-23 01:08:55.038 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-23 01:08:55.292 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5f144315-b69f-485b-90aa-093e3faf9485' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.5f144315-b69f-485b-90aa-093e3faf9485","path":"/home/barea/.vscode-server/extensions/.5f144315-b69f-485b-90aa-093e3faf9485","scheme":"file"}
+2024-02-23 01:08:55.521 [error] Error while installing the extension dbaeumer.vscode-eslint EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5f144315-b69f-485b-90aa-093e3faf9485' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+2024-02-23 01:08:55.524 [error] Failed to install extension. dbaeumer.vscode-eslint
+2024-02-23 01:08:55.525 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5f144315-b69f-485b-90aa-093e3faf9485' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:08:56.534 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.5f144315-b69f-485b-90aa-093e3faf9485' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:09:05.357 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1: pranaygp.vscode-css-peek
+2024-02-23 01:09:05.531 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.f14a1e5a-42bc-4571-acb9-6b6f282f7e93' -> '/home/barea/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.f14a1e5a-42bc-4571-acb9-6b6f282f7e93","path":"/home/barea/.vscode-server/extensions/.f14a1e5a-42bc-4571-acb9-6b6f282f7e93","scheme":"file"}
+2024-02-23 01:09:06.061 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-23 01:09:07.447 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-23 01:09:29.172 [error] Error while installing the extension pranaygp.vscode-css-peek EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.f14a1e5a-42bc-4571-acb9-6b6f282f7e93' -> '/home/barea/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1'
+2024-02-23 01:09:29.176 [error] Failed to install extension. pranaygp.vscode-css-peek
+2024-02-23 01:09:29.178 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.f14a1e5a-42bc-4571-acb9-6b6f282f7e93' -> '/home/barea/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:09:30.189 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.f14a1e5a-42bc-4571-acb9-6b6f282f7e93' -> '/home/barea/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:09:31.869 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2024-02-23 01:09:32.109 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-23 01:09:32.273 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.183b7f3e-1eca-4b53-823a-6e8db9f8af81' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.183b7f3e-1eca-4b53-823a-6e8db9f8af81","path":"/home/barea/.vscode-server/extensions/.183b7f3e-1eca-4b53-823a-6e8db9f8af81","scheme":"file"}
+2024-02-23 01:09:32.386 [error] Error while installing the extension dbaeumer.vscode-eslint EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.183b7f3e-1eca-4b53-823a-6e8db9f8af81' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+2024-02-23 01:09:32.389 [error] Failed to install extension. dbaeumer.vscode-eslint
+2024-02-23 01:09:32.390 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.183b7f3e-1eca-4b53-823a-6e8db9f8af81' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:09:33.397 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.183b7f3e-1eca-4b53-823a-6e8db9f8af81' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:09:42.742 [info] Getting Manifest... adamvoss.vscode-languagetool-es
+2024-02-23 01:09:43.133 [info] Installing extension: adamvoss.vscode-languagetool-es
+2024-02-23 01:09:44.136 [info] Getting Manifest... adamvoss.vscode-languagetool
+2024-02-23 01:09:44.652 [info] Installing extension: adamvoss.vscode-languagetool adamvoss.vscode-languagetool-es
+2024-02-23 01:10:48.749 [warning] Extension signature verification failed with error 'ENOENT': adamvoss.vscode-languagetool
+2024-02-23 01:10:53.263 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-3.8.0: adamvoss.vscode-languagetool
+2024-02-23 01:10:53.399 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9fbe29b7-6917-4124-b6e1-6360b087fc60' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-3.8.0'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.9fbe29b7-6917-4124-b6e1-6360b087fc60","path":"/home/barea/.vscode-server/extensions/.9fbe29b7-6917-4124-b6e1-6360b087fc60","scheme":"file"}
+2024-02-23 01:10:53.987 [error] Error while installing the extension adamvoss.vscode-languagetool EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9fbe29b7-6917-4124-b6e1-6360b087fc60' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-3.8.0'
+2024-02-23 01:10:53.998 [error] Failed to install extension. adamvoss.vscode-languagetool-es
+2024-02-23 01:10:53.999 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9fbe29b7-6917-4124-b6e1-6360b087fc60' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-3.8.0'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:10:54.002 [error] Failed to install extension. adamvoss.vscode-languagetool
+2024-02-23 01:10:54.003 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9fbe29b7-6917-4124-b6e1-6360b087fc60' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-3.8.0'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:10:55.014 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.9fbe29b7-6917-4124-b6e1-6360b087fc60' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-3.8.0'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:11:08.723 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-23 01:11:09.192 [info] Installing extension: ritwickdey.liveserver
+2024-02-23 01:11:17.282 [info] [127.0.0.1][f63adf0d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-23 01:11:18.233 [info] [127.0.0.1][764c3662][ExtensionHostConnection] <1670> Extension Host Process exited with code: 0, signal: null.

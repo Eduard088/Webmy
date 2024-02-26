@@ -1,0 +1,19 @@
+2024-02-23 20:02:19.535 [info] Extension host with pid 617 started
+2024-02-23 20:02:21.424 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-23 20:02:22.040 [info] Lock '/home/barea/.vscode-server/data/User/workspaceStorage/04f78dac9ca4e815deb9db96ff7e6be8/vscode.lock': Lock acquired.
+2024-02-23 20:02:22.128 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-23 20:02:22.132 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-23 20:02:28.277 [info] Eager extensions activated
+2024-02-23 20:02:28.294 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 20:02:28.324 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 20:02:28.327 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 20:02:28.336 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 20:02:28.339 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 20:02:36.713 [info] ExtensionService#_doActivateExtension adamvoss.vscode-languagetool, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-23 20:02:36.790 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-23 20:02:40.693 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 20:02:46.444 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-23 20:02:46.447 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-23 20:03:08.292 [info] Extension host terminating: received terminate message from renderer
+2024-02-23 20:03:08.297 [info] Lock '/home/barea/.vscode-server/data/User/workspaceStorage/04f78dac9ca4e815deb9db96ff7e6be8/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-23 20:03:08.711 [info] Extension host with pid 617 exiting with code 0

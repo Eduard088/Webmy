@@ -1,0 +1,127 @@
+2024-02-23 01:12:13.038 [info] 
+
+
+
+
+2024-02-23 01:12:13.170 [info] Extension host agent started.
+2024-02-23 01:12:13.927 [info] [127.0.0.1][1ddc95cc][ManagementConnection] New connection established.
+2024-02-23 01:12:16.823 [info] [127.0.0.1][b7acd9a3][ExtensionHostConnection] New connection established.
+2024-02-23 01:12:17.870 [info] [127.0.0.1][b7acd9a3][ExtensionHostConnection] <2073> Launched Extension Host Process.
+2024-02-23 01:12:45.064 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2024-02-23 01:12:45.069 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-23 01:12:45.070 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-23 01:12:45.071 [info] Getting Manifest... vincaslt.highlight-matching-tag
+2024-02-23 01:12:45.073 [info] Getting Manifest... pranaygp.vscode-css-peek
+2024-02-23 01:12:45.073 [info] Getting Manifest... adamvoss.vscode-languagetool
+2024-02-23 01:12:45.075 [info] Getting Manifest... pkief.material-icon-theme
+2024-02-23 01:12:45.076 [info] Getting Manifest... tgreen7.vs-code-node-require
+2024-02-23 01:12:45.076 [info] Getting Manifest... adamvoss.vscode-languagetool-es
+2024-02-23 01:12:45.077 [info] Getting Manifest... streetsidesoftware.code-spell-checker-spanish
+2024-02-23 01:12:45.581 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-23 01:12:45.605 [info] Installing extension: ritwickdey.liveserver
+2024-02-23 01:12:45.640 [info] Installing extension: pranaygp.vscode-css-peek
+2024-02-23 01:12:45.847 [info] Installing extension: streetsidesoftware.code-spell-checker
+2024-02-23 01:12:45.914 [info] Installing extension: adamvoss.vscode-languagetool
+2024-02-23 01:12:46.063 [info] Installing extension: vincaslt.highlight-matching-tag
+2024-02-23 01:12:46.346 [info] Installing extension: pkief.material-icon-theme
+2024-02-23 01:12:46.356 [info] Installing extension: tgreen7.vs-code-node-require
+2024-02-23 01:12:46.727 [info] Installing extension: adamvoss.vscode-languagetool-es
+2024-02-23 01:12:46.737 [info] Installing extension: streetsidesoftware.code-spell-checker-spanish
+2024-02-23 01:12:50.978 [info] Getting Manifest... adamvoss.vscode-languagetool
+2024-02-23 01:12:55.375 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2024-02-23 01:12:56.447 [info] Waiting for already requested installing extension adamvoss.vscode-languagetool adamvoss.vscode-languagetool-es
+2024-02-23 01:12:58.076 [info] Waiting for already requested installing extension streetsidesoftware.code-spell-checker streetsidesoftware.code-spell-checker-spanish
+2024-02-23 01:13:06.409 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2024-02-23 01:13:07.388 [warning] Extension signature verification failed with error 'ENOENT': vincaslt.highlight-matching-tag
+2024-02-23 01:13:07.610 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-23 01:13:07.973 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/vincaslt.highlight-matching-tag-0.11.0: vincaslt.highlight-matching-tag
+2024-02-23 01:13:08.207 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.05016022-fe57-4e39-a450-98f017cd674d' -> '/home/barea/.vscode-server/extensions/vincaslt.highlight-matching-tag-0.11.0'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.05016022-fe57-4e39-a450-98f017cd674d","path":"/home/barea/.vscode-server/extensions/.05016022-fe57-4e39-a450-98f017cd674d","scheme":"file"}
+2024-02-23 01:13:08.252 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.557aafbf-d04d-4fae-bcab-2a41da0321f8' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.557aafbf-d04d-4fae-bcab-2a41da0321f8","path":"/home/barea/.vscode-server/extensions/.557aafbf-d04d-4fae-bcab-2a41da0321f8","scheme":"file"}
+2024-02-23 01:13:08.427 [error] Error while installing the extension vincaslt.highlight-matching-tag EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.05016022-fe57-4e39-a450-98f017cd674d' -> '/home/barea/.vscode-server/extensions/vincaslt.highlight-matching-tag-0.11.0'
+2024-02-23 01:13:08.440 [error] Failed to install extension. vincaslt.highlight-matching-tag
+2024-02-23 01:13:08.442 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.05016022-fe57-4e39-a450-98f017cd674d' -> '/home/barea/.vscode-server/extensions/vincaslt.highlight-matching-tag-0.11.0'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:08.461 [error] Error while installing the extension dbaeumer.vscode-eslint EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.557aafbf-d04d-4fae-bcab-2a41da0321f8' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+2024-02-23 01:13:08.463 [error] Failed to install extension. dbaeumer.vscode-eslint
+2024-02-23 01:13:08.467 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.557aafbf-d04d-4fae-bcab-2a41da0321f8' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:09.463 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.05016022-fe57-4e39-a450-98f017cd674d' -> '/home/barea/.vscode-server/extensions/vincaslt.highlight-matching-tag-0.11.0'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:09.476 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.557aafbf-d04d-4fae-bcab-2a41da0321f8' -> '/home/barea/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:15.670 [warning] Extension signature verification failed with error 'ENOENT': streetsidesoftware.code-spell-checker-spanish
+2024-02-23 01:13:16.044 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.3.2: streetsidesoftware.code-spell-checker-spanish
+2024-02-23 01:13:16.152 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ce36fc2-ee60-47fa-8d3e-d063d7230ee7' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.3.2'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.0ce36fc2-ee60-47fa-8d3e-d063d7230ee7","path":"/home/barea/.vscode-server/extensions/.0ce36fc2-ee60-47fa-8d3e-d063d7230ee7","scheme":"file"}
+2024-02-23 01:13:16.271 [error] Error while installing the extension streetsidesoftware.code-spell-checker-spanish EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ce36fc2-ee60-47fa-8d3e-d063d7230ee7' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.3.2'
+2024-02-23 01:13:16.274 [error] Failed to install extension. streetsidesoftware.code-spell-checker-spanish
+2024-02-23 01:13:16.275 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ce36fc2-ee60-47fa-8d3e-d063d7230ee7' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.3.2'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:17.324 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.0ce36fc2-ee60-47fa-8d3e-d063d7230ee7' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.3.2'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:17.856 [warning] Extension signature verification failed with error 'ENOENT': pkief.material-icon-theme
+2024-02-23 01:13:19.841 [warning] Extension signature verification failed with error 'ENOENT': adamvoss.vscode-languagetool-es
+2024-02-23 01:13:20.774 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-es-3.8.0: adamvoss.vscode-languagetool-es
+2024-02-23 01:13:20.894 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.c662082f-cad3-4705-8eb3-aed3d5474520' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-es-3.8.0'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.c662082f-cad3-4705-8eb3-aed3d5474520","path":"/home/barea/.vscode-server/extensions/.c662082f-cad3-4705-8eb3-aed3d5474520","scheme":"file"}
+2024-02-23 01:13:20.973 [error] Error while installing the extension adamvoss.vscode-languagetool-es EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.c662082f-cad3-4705-8eb3-aed3d5474520' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-es-3.8.0'
+2024-02-23 01:13:20.975 [error] Failed to install extension. adamvoss.vscode-languagetool-es
+2024-02-23 01:13:20.976 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.c662082f-cad3-4705-8eb3-aed3d5474520' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-es-3.8.0'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:21.991 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.c662082f-cad3-4705-8eb3-aed3d5474520' -> '/home/barea/.vscode-server/extensions/adamvoss.vscode-languagetool-es-3.8.0'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:13:22.785 [warning] Extension signature verification failed with error 'ENOENT': tgreen7.vs-code-node-require
+2024-02-23 01:13:24.284 [warning] Extension signature verification failed with error 'ENOENT': streetsidesoftware.code-spell-checker
+2024-02-23 01:13:45.259 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-23 01:14:02.026 [warning] Extension signature verification failed with error 'ENOENT': pranaygp.vscode-css-peek
+2024-02-23 01:14:13.783 [info] Extracted extension to file:///home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1: streetsidesoftware.code-spell-checker
+2024-02-23 01:14:14.495 [info] Rename failed because of EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.89688af6-75ba-4ca6-854d-eac73d528627' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'. Deleted from extracted location {"$mid":1,"fsPath":"/home/barea/.vscode-server/extensions/.89688af6-75ba-4ca6-854d-eac73d528627","path":"/home/barea/.vscode-server/extensions/.89688af6-75ba-4ca6-854d-eac73d528627","scheme":"file"}
+2024-02-23 01:14:17.319 [error] Error while installing the extension streetsidesoftware.code-spell-checker EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.89688af6-75ba-4ca6-854d-eac73d528627' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+2024-02-23 01:14:17.324 [info] Finished waiting for already requested installing extension streetsidesoftware.code-spell-checker streetsidesoftware.code-spell-checker-spanish
+2024-02-23 01:14:17.335 [error] Failed to install extension. streetsidesoftware.code-spell-checker
+2024-02-23 01:14:17.336 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.89688af6-75ba-4ca6-854d-eac73d528627' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:14:18.468 [error] EACCES: EACCES: permission denied, rename '/home/barea/.vscode-server/extensions/.89688af6-75ba-4ca6-854d-eac73d528627' -> '/home/barea/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1'
+    at V.C (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:77287)
+    at async V.extractUserExtension (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:74800)
+    at async re.u (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80893)
+    at async re.x (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:82808)
+    at async re.h (/home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:80426)
+2024-02-23 01:14:18.471 [error] Error: Extension streetsidesoftware.code-spell-checker is not installed
+    at /home/barea/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/server/node/server.main.js:169:27163
+2024-02-23 01:14:23.728 [info] [127.0.0.1][1ddc95cc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-23 01:14:24.138 [info] [127.0.0.1][b7acd9a3][ExtensionHostConnection] <2073> Extension Host Process exited with code: 0, signal: null.
