@@ -269,3 +269,142 @@ git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/qq
 ll
 git status
 git add .codess/extensions/ritwickdey.liveserver-5.7.9/
+sudo apt update
+git status
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/vary/
+git add .codess/extensions/streetsidesoftware.code-spell-checker-3.0.1/
+git add         .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/package.json
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/.vsixmanifest
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/CHANGELOG.md
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/LICENSE.txt
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/README.md
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/lodash/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/loud-rejection/
+.codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/map-obj/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/map-obj/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/map-stream/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/meow/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/mime-db/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/mime-types/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/mime/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/minimatch/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/minimist/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/morgan/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/ms/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/natural-compare/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/negotiator/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/next-tick/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/node-status-codes/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/normalize-package-data/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/normalize-path/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/number-is-nan/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/object-assign/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/on-finished/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/on-headers/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/once/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/opn/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/optionator/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/os-homedir/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/parseurl/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/path-is-absolute/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/path-is-inside/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/path-parse/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/pause-stream/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/picomatch/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/pinkie-promise/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/pinkie/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/pluralize/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/prelude-ls/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/process-nextick-args/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/progress/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/proxy-middleware/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/range-parser/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/read-all-stream/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/read-pkg-up/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/readable-stream/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/readline2/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/readdirp/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/rechoir/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/redent/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/repeating/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/require-uncached/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/requires-port/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/resolve/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/rx-lite/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/safe-buffer/
+git add codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/send
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/send/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/serve-index/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/setprototypeof/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/shelljs/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/signal-exit/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/slice-ansi/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/spdx-correct/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/spdx-exceptions/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/spdx-expression-parse/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/spdx-license-ids/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/split/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/sprintf-js/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/statuses/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/stream-combiner/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/string_decoder/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/strip-bom/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/strip-indent/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/strip-json-comments/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/supports-preserve-symlinks-flag/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/table/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/text-table/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/through/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/to-regex-range/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/toidentifier/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/trim-newlines/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/type-check/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/type
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/typedarray/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/unix-crypt-td-js/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/unpipe/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/unzip-response/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/user-home/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/util-deprecate/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/utils-merge/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/uuid/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/validate-npm-package-license/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/vary/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/vsls/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/websocket-driver/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/websocket-extensions/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/word-wrap/
+git add [200~.codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/wrappy/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/wrappy/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/write/
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/node_modules/xtend/
+.codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/package.json
+git add .codess/extensions/.3809c24a-a521-427d-a347-1cc0660deb90/package.json
+git add .codess/extensions/.84845a37-c13c-4548-8672-6806f03d8734/
+git add .codess/extensions/adamvoss.vscode-languagetool-es-3.8.0/
+git add .codess/extensions/adamvoss.vscode-languagetool-3.8.0/
+git add .codess/extensions/.f3c94cfd-52b5-4586-82c7-f010b29a3459/
+git status
+git add .codess/extensions/.baa6d47b-ea5a-4c28-bbfd-298cb1a79eb6/
+git add .codess/extensions/dbaeumer.vscode-eslint-2.4.4/
+git add .codess/extensions/pkief.material-icon-theme-4.34.0/
+git add .codess/extensions/pranaygp.vscode-css-peek-4.4.1/
+git add .codess/extensions/ritwickdey.liveserver-5.7.9/
+git status
+git add .bash_history
+git status
+clear
+ls
+sudo apt update
+ls
+git status
+git commit -m "Mi primer commit"
+git config --global user.name "barea"
+git config --globak user.email "eduardobareapoot@outlook.com"
+git config --global user.email "eduardobareapoot@outlook.com"
+git commit -m "Mi primer Commit"
+git config --global user.name "Eduard088"
+git config --global user.email "eduardobareapoot@outlook.com"
+git commit -m "Mi primer Commit"
+git commit -a "Mi Primer Commit"
+git commit -m "mi primer commit"
